@@ -1,3 +1,0 @@
-C:/Users/navruz/CLionProjects/uzbek-spellchecker/cmake-build-debug/CMakeFiles/uzbek-spellchecker.dir
-C:/Users/navruz/CLionProjects/uzbek-spellchecker/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/navruz/CLionProjects/uzbek-spellchecker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
